@@ -6,6 +6,10 @@
 
 ## 系统管理
 
+### 个人中心
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/profile.png?raw=true)
+
 ### 菜单管理
 
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/menu-manager.png?raw=true)
