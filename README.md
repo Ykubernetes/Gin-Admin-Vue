@@ -3,4 +3,4 @@
 
 ## 系统登录
 
-![](D:\Markdown-Images\login.png)
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/login.png?raw=true)
