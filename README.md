@@ -52,15 +52,31 @@
 
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/user-manager.png?raw=true)
 
-### 模块添加
+### 模块管理
+
+#### 模块添加
 
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/add-new-model.png?raw=true)
 
-### 菜单添加
+#### 菜单添加
 
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/add-new-menu.png?raw=true)
 
 ### 客户管理
 
+> 以下客户信息内容为虚拟客户信息
+
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/customer-manager.png?raw=true)
+
+#### 信息添加
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/customer-manager-add.png?raw=true)
+
+#### 信息查看
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/customer-manager-view.png?raw=true)
+
+#### 信息编辑
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/customer-manager-edit.png?raw=true)
 
