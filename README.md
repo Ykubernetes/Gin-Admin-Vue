@@ -1,6 +1,15 @@
 ## Gin-Admin-Vue
 基于vue和gin开发的全栈前后端分离的开发基础平台，集成了jwt鉴权、动态路由、动态菜单等功能，总之有助于我们更专注与业务开发，可以快速搭建一套中小型项目。
 
+### 基础架构
+
+- 前端：用基于VUE2的 Element-UI 构建基础页面。
+- 后端：用GIN快速搭建,Gin 是一个go语言编写的Web框架。
+- 数据库：采用`MySql` > (5.7) 版本 数据库引擎 InnoDB，使用 [gorm](http://gorm.cn/) 实现对数据库的基本操作。
+- 缓存：使用`Redis ` > 6+ 实现记录当前活跃用户的`jwt`令牌并实现多点登录限制。
+- 配置文件：实现`yaml`格式的配置文件。
+- 日志：使用`Logrus`实现日志记录。
+
 ## 系统登录
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/login.png?raw=true)
 
