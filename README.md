@@ -4,3 +4,32 @@
 ## 系统登录
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/login.png?raw=true)
 
+## 系统管理
+
+### 菜单管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/menu-manager.png?raw=true)
+
+### 角色管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/role-manager.png?raw=true)
+
+#### 角色权限
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/role-manager-set.png?raw=true)
+
+### 部门管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/department-manager.png?raw=true)
+
+#### 部门设置
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/department-manager-add.png?raw=true)
+
+### 岗位管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/post-manager.png?raw=true)
+
+### 用户管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/user-manager.png?raw=true)
