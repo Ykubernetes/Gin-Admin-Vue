@@ -1,0 +1,27 @@
+mysql:
+  host: "192.168.35.3"
+  port: 3306
+  db: test
+  username: root
+  password: "root"
+  log_level: dev
+  config: "charset=utf8&parseTime=True&loc=Local"
+system:
+  host: "0.0.0.0"
+  port: 8080
+  env: debug # available mode: debug release test
+logger:
+  level: info
+  prefix: '[Gin-Admin-Server]'
+  director: logs/gin-admin-vue.log
+  show_line: true
+  log_in_console: false
+redis:
+    host: "192.168.35.3"
+    port: 6379
+    password: "root"
+    selectDb: 0
+    polSize: 30
+    minIdleConn: 30
+jwt:
+  secretKey: "www.ikubernetes.com.cn"
