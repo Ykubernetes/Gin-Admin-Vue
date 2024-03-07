@@ -52,3 +52,15 @@
 
 ![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/user-manager.png?raw=true)
 
+### 模块添加
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/add-new-model.png?raw=true)
+
+### 菜单添加
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/add-new-menu.png?raw=true)
+
+### 客户管理
+
+![](https://github.com/Ykubernetes/Gin-Admin-Vue/blob/main/doc/customer-manager.png?raw=true)
+
